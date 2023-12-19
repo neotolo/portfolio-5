@@ -1,7 +1,7 @@
 const quiz = [
   {
     question: "What is the capital of France?",
-    choices: ["Paris", "Madrid", "Berlin", "London"],
+    choices: ["Paris", "Madrid", "Berlin", "London", "Bern"],
     answer: "Paris"
   },
   {
